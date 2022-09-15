@@ -1,4 +1,4 @@
-# submission
+# Submission Dicoding - Belajar Membuat Aplikasi Flutter untuk Pemula
 
 A new Flutter project.
 
